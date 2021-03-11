@@ -329,6 +329,10 @@ body{
 	.text_header p{
 		margin: 0;
 	}
+	
+	.image_about {
+     padding-right: 0;
+}
 
 
 		
