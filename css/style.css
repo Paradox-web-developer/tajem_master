@@ -332,6 +332,11 @@ body{
 	
 	.image_about {
      padding-right: 0;
+	}
+	.team__items {
+    	display: flex;
+   	 justify-content: center;
+    	flex-wrap: wrap;
 }
 
 
